@@ -1,12 +1,12 @@
 <h3 title="hehehe"> Hey 👋, I'm Ziad Mohammed!</h3>
 
-<a href="https://www.linkedin.com/in/ziadmohammed60600">
-  <img align="left" alt="Ziad's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+<a href="https://www.linkedin.com/in/ziadmohammed60600" target="_blank">
+  <img align="left" alt="Ziad's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
-<a href="https://www.instagram.com/ziadmohammed00/">
+<a href="https://www.instagram.com/ziadmohammed00/" target="_blank">
   <img align="left" alt="Ziad's Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://www.facebook.com/ziad.mohammad.606">
+<a href="https://www.facebook.com/ziad.mohammad.606" target="_blank">
   <img align="left" alt="Ziad's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ziad606&label=Profile%20views&color=0e75b6&style=flat" align="left">
