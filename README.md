@@ -29,12 +29,12 @@ A **passionate Full-Stack .NET and Angular Developer** 🚀 from Egypt.
 **Languages and Tools:**  
 
 <p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" /></a>
   <a href="https://angular.io" target="_blank"><img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" /></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" /></a>
   <a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" /></a>
   <a href="https://www.java.com" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" /></a>
