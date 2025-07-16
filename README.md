@@ -14,13 +14,13 @@
 <br />
 <br />
 
-A **passionate Full-Stack Developer** 🚀 from Egypt.
+A **passionate Full-Stack .NET and Angular Developer** 🚀 from Egypt.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working on full-stack projects and building scalable apps.`ex`
+- 👨🏽‍💻 I’m currently working on full-stack projects and building scalable apps.
 - 🌱 I’m learning advanced backend concepts and architecture.
 - 💬 Ask me about anything tech-related, I’m happy to help!
 - 📫 Reach me at [linkedin](www.linkedin.com/in/ziadmohammed60600)
