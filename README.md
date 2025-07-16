@@ -24,7 +24,7 @@ A **passionate Full-Stack .NET and Angular Developer** 🚀 from Egypt.
 - 🌱 I’m learning advanced backend concepts and architecture.
 - 💬 Ask me about anything tech-related, I’m happy to help!
 - 📫 Reach me at [linkedin](https://www.linkedin.com/in/ziadmohammed60600)
-- 📝 Checkout my [CV]([https://drive.google.com/file/d/your-cv-link-here](https://drive.google.com/file/d/1YmdY2iqIxhc8WEvkhEx_OzKoLZlHjCSl/view?usp=drive_link)) to learn more.
+- 📝 Checkout my [CV](https://drive.google.com/file/d/1YmdY2iqIxhc8WEvkhEx_OzKoLZlHjCSl/view?usp=drive_link) to learn more.
 
 **Languages and Tools:**  
 
