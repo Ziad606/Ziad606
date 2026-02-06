@@ -60,14 +60,13 @@ A **passionate Full-Stack .NET and Angular Developer** 🚀 from Egypt.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziad606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-⭐️ From [Ziad606](https://github.com/ziad606)
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ziad606/Ziad606/blob/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ziad606/Ziad606/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Ziad606/Ziad606/blob/output/github-contribution-grid-snake.svg" />
 </picture>
----
 
+⭐️ From [Ziad606](https://github.com/ziad606)
 Credit: [Ziad606](https://github.com/ziad606)  
 Last Edited on: 25/05/2025
