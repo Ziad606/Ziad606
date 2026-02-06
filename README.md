@@ -61,7 +61,11 @@ A **passionate Full-Stack .NET and Angular Developer** 🚀 from Egypt.
 </div>
 
 ⭐️ From [Ziad606](https://github.com/ziad606)
-
+ 
+<div align="center">
+  
+![snake gif](https://github.com/Ziad606/Ziad606/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 ---
 
 Credit: [Ziad606](https://github.com/ziad606)  
