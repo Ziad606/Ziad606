@@ -1,74 +1,79 @@
-<h3 title="hehehe"> Hey 👋, I'm Ziad Mohammed!</h3>
+<h1 align="center">Hey, I'm Ziad Mohammed 👋</h1>
 
-<a href="https://www.linkedin.com/in/ziadmohammed60600">
-  <img align="left" alt="Ziad's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-</a>
-<a href="https://www.instagram.com/ziadmohammed00/">
-  <img align="left" alt="Ziad's Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-<a href="https://www.facebook.com/ziad.mohammad.606">
-  <img align="left" alt="Ziad's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ziad606&label=Profile%20views&color=0e75b6&style=flat" align="left">
+<h3 align="center">Full-Stack Software Engineer | .NET · React · Angular</h3>
 
-<br />
-<br />
-
-A **passionate Full-Stack .NET and Angular Developer** 🚀 from Egypt.
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**About Me!**
-
-- 👨🏽‍💻 I’m currently working on full-stack projects and building scalable apps.
-- 🌱 I’m learning advanced backend concepts and architecture.
-- 💬 Ask me about anything tech-related, I’m happy to help!
-- 📫 Reach me at [linkedin](https://www.linkedin.com/in/ziadmohammed60600)
-- 📝 Checkout my [CV](https://drive.google.com/file/d/1YmdY2iqIxhc8WEvkhEx_OzKoLZlHjCSl/view?usp=drive_link) to learn more.
-
-**Languages and Tools:**  
-
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" /></a>
-  <a href="https://angular.io" target="_blank"><img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" /></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /></a>
-  <a href="https://www.java.com" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" /></a>
-  <a href="https://laravel.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" /></a>
-  <a href="https://www.php.net" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" /></a>
+<p align="center">
+  Building reliable backend systems and modern web applications.
+  <br />
+  Based in Egypt 🇪🇬
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziadmohammed60600">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ziad.mohammed.elramly@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br />
-<br />
+---
 
-<div align="center" style="display:flex,flex-direction:flex-column,gap:10px">
-  <img src="https://github-profile-trophy.vercel.app?username=ziad606&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"height="150" alt=""  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziad606&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-  
-<br />
-<br />
+## About Me
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziad606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+I'm a Full-Stack Software Engineer currently working at **SpecialCards**, building web applications with React and ASP.NET Core.
 
- 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ziad606/Ziad606/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ziad606/Ziad606/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://github.com/Ziad606/Ziad606/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+My primary focus is backend development with C# and ASP.NET Core, alongside building responsive frontend applications with React and Angular.
 
-⭐️ From [Ziad606](https://github.com/ziad606)
-Credit: [Ziad606](https://github.com/ziad606)  
-Last Edited on: 25/05/2025
+I enjoy working across the entire development lifecycle, from database design and API architecture to frontend implementation, performance optimization, and automated testing.
+
+I'm particularly interested in Clean Architecture, scalable backend systems, database performance, and building reliable financial workflows.
+
+### What I Work With
+
+- **Backend:** ASP.NET Core, C#, Entity Framework Core, RESTful APIs
+- **Frontend:** React, TypeScript, Angular, RxJS
+- **Data & Performance:** SQL Server, PostgreSQL, Redis
+- **Architecture & Engineering:** Clean Architecture, CQRS, SOLID, Automated Testing
+- **Cloud & DevOps:** Azure, Docker, GitHub Actions, CI/CD
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,html,css,tailwind" alt="Backend and frontend technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,redis,azure,docker,git,github,postman" alt="Databases and development tools" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ziad606&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad606&layout=compact&hide_border=true&langs_count=6"
+    height="165"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad606&hide_border=true"
+    alt="GitHub contribution activity"
+    width="100%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving.</i>
+</p>
