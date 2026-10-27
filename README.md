@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ziad Mohammed 👋</h1>
+<h1 align="center">Hey, I'm Ziad Mohammed</h1>
 
 <h3 align="center">Full-Stack Software Engineer | .NET · React · Angular</h3>
 
@@ -15,9 +15,10 @@
   <a href="mailto:ziad.mohammed.elramly@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://drive.google.com/file/d/1sqfn_kybUoNLtk7QkqRTxk7ry59cU_G4/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-2E7D32?style=flat&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
 </p>
-
----
 
 ## About Me
 
@@ -27,7 +28,7 @@ My primary focus is backend development with C# and ASP.NET Core, alongside buil
 
 I enjoy working across the entire development lifecycle, from database design and API architecture to frontend implementation, performance optimization, and automated testing.
 
-I'm particularly interested in Clean Architecture, scalable backend systems, database performance, and building reliable financial workflows.
+I'm particularly interested in Clean Architecture, scalable backend systems, database query optimization, and building reliable financial workflows.
 
 ### What I Work With
 
@@ -73,6 +74,14 @@ I'm particularly interested in Clean Architecture, scalable backend systems, dat
 </p>
 
 ---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziad606/Ziad606/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziad606/Ziad606/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ziad606/Ziad606/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 <p align="center">
   <i>Always learning, building, and improving.</i>
